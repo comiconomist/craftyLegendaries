@@ -1,0 +1,14 @@
+10/1
+
+- Duplicated DLC05workshop_co_WorkshopBuilderWeapon01 (weapon forge 1) and renamed it CLworkshop_co_legendaryWeaponForge
+- Removed perk requirement for now
+- Changed description
+
+- Duplicated DLC05WorkshopBuilderWeapon01 to CLworkshopLegendaryWeaponForge
+- Removed terminals
+- Removed builder script, kept conveyor script
+
+- Duplicated DLC05_workshopBuilder01 transform, renamed CL_workshop_legendaryWeaponForge, pointed at CLworkshopLegendaryWeaponForge
+
+- Point world object at preview
+- Point created object at world object

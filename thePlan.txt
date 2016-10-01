@@ -1,0 +1,12 @@
+Crafty legendaries steps:
+
+- Create machine that does production animation when turned on
+- Make machine spit out weapons put into it
+- Make machine add explosive effect to weapons put into it
+- Add terminal to choose legendary effect
+- Add recipes for legendary effects
+- Make recipes include new item
+- Make new item spawn on legendary creatures
+- Disable vanilla legendary items spawning
+- Make recipes unlock through items found throughout commonwealth
+- Give machine cleaner texture/paintjob?
